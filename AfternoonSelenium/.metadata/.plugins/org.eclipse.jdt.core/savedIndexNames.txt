@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Parna\eclipse-workspace\Seleniumaftrnoon\src\AftSelenium\Aftselenium\Software\AfternoonSelenium\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
